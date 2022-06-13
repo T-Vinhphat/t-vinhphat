@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinhphat, welcome to my github profile</h1>
 <h3 align="center">I am a new born developer, who started with the javascript language using ReactJs, NodeJs, I try to improve myself in order to become a better version of myself tomorrow</h3>
 
-<p align="left"> <a href="https://twitter.com/tvinhphat" target="blank"><img src="https://img.shields.io/twitter/follow/tvinhphat?logo=twitter&style=for-the-badge" alt="tvinhphat" /></a> </p>
+
 
 <img align="right" alt="Coding" width=400 src="https://c.tenor.com/SBAt0s2C6mwAAAAC/cat-keyboard.gif">
 
