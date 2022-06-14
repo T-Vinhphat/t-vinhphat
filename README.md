@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width=400 src="https://c.tenor.com/SBAt0s2C6mwAAAAC/cat-keyboard.gif">
 
-- 👨‍💻 All of my projects are available at [https://vinhphat-tran-portofolio.netlify.app](https://vinhphat-tran-portofolio.netlify.app/#contacts)
+- 👨‍💻 All of my projects are available at [https://vinhphat-tran-portofolio.netlify.app](https://vinhphat-tran-portofolio.netlify.app/)
 
 - 📫 How to reach me **tr.vinhphat@gmail.com**
 
